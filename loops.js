@@ -9,4 +9,4 @@ function forLoop(array) {
   }
 }
 var newA = []
-console.log(forLoop(new))
+console.log(forLoop(newA))
