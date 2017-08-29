@@ -8,4 +8,6 @@ function forLoop(array) {
     console.log(array)
   }
 }
+var newArray = []
 
+forLoop(newArray)
