@@ -8,5 +8,5 @@ function forLoop(array) {
     return array
   }
 }
-
+new = []
 console.log(forLoop())
