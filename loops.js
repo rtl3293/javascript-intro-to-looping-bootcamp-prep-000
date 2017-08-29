@@ -8,6 +8,3 @@ function forLoop(array) {
     return array
   }
 }
-var newA = []
-
-console.log(forLoop(newA))
